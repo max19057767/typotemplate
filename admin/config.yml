@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: 19057767max/typotemplate # Path to your GitHub repository
+  repo: max19057767/typotemplate # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: typographicsample.netlify.app #Your site on netlify
   use_graphql: true

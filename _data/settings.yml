@@ -1,8 +1,8 @@
-title: Your name or name of site
-description: A website with a blog
-footer_text: Copyright 2021 Your name
+title: Faces of Books
+description: Typography Blog
+footer_text: Copyright 2021 Max Kielesinska
 header_feature_image: ../uploads/pages.jpg
-header_text: My Dream Blog
+header_text: ""
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 55px

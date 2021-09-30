@@ -4,7 +4,7 @@ footer_text: Copyright 2021 Max Kielesinska
 header_feature_image: ../uploads/b0aa3f63-a2f8-46f2-a2e4-1702b7500245.jpeg
 header_text: ""
 header_text_color: "#ffffff"
-bannerheight: 20vmax
+bannerheight: 40vmax
 navbarheight: 55px
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico

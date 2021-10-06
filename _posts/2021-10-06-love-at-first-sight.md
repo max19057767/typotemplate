@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Love at first sight.
+title: Love at first sight
 date: 2021-10-06T02:47:29.928Z
 image: ../uploads/article-background-2.jpg
 title_color: "#ffffff"

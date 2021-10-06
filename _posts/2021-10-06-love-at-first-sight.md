@@ -2,6 +2,7 @@
 layout: post
 title: Love at first sight.
 date: 2021-10-06T02:47:29.928Z
+image: ../uploads/article-background.jpg
 title_color: "#ffffff"
 comments: false
 tags:
@@ -10,6 +11,8 @@ tags:
   - Fonts
 ---
 ## **Typefaces and the characteristics of contemporary romance novels.**
+
+
 
 Searching for the perfect love story, we encounter our ‘love at first sight’ - the book cover. Often to reflect the delicate nature of the plot, variations of thin serif typefaces are used (but not always). In the first example ‘Last Night’ by Mhairi McFarlane, the typeface uses serif characters with a high contrast, regular width and a tall x-height. The choice of this particular typeface communicates feminine and romantic ideas, which appropriately suit the book’s genre. The reading demographic for contemporary romance novel readers is composed of a high ratio of young women, to around 20% men; reflective of its readership it is suitable for books to be illustrated with thin and elegant typefaces, which reminisce the era of romanticism and vivid feminine imagery. The book cover presents itself as lighthearted, the fine lines of the fluctuant stressing of the characters create an eye-pleasing appearance and may encourage connotations of effortless grace and candid intimacy.
 

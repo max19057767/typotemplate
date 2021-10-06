@@ -3,7 +3,7 @@ layout: post
 title: Love at first sight.
 date: 2021-10-06T02:47:29.928Z
 image: ../uploads/article-background.jpg
-title_color: "#ffffff"
+title_color: "#000000"
 comments: false
 tags:
   - Books

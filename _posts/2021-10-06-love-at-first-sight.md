@@ -6,8 +6,8 @@ image: ../uploads/article1.jpg
 title_color: "#ffffff"
 comments: false
 tags:
+  - Design
   - Books
-  - Literature
   - Fonts
 ---
 ## **Typefaces and the characteristics of contemporary romance novels.**

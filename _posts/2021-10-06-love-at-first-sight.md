@@ -12,8 +12,6 @@ tags:
 ---
 ## **Typefaces and the characteristics of contemporary romance novels.**
 
-
-
 Searching for the perfect love story, we encounter our ‘love at first sight’ - the book cover. Often to reflect the delicate nature of the plot, variations of thin serif typefaces are used (but not always). In the first example ‘Last Night’ by Mhairi McFarlane, the typeface uses serif characters with a high contrast, regular width and a tall x-height. The choice of this particular typeface communicates feminine and romantic ideas, which appropriately suit the book’s genre. The reading demographic for contemporary romance novel readers is composed of a high ratio of young women, to around 20% men; reflective of its readership it is suitable for books to be illustrated with thin and elegant typefaces, which reminisce the era of romanticism and vivid feminine imagery. The book cover presents itself as lighthearted, the fine lines of the fluctuant stressing of the characters create an eye-pleasing appearance and may encourage connotations of effortless grace and candid intimacy.
 
 !['Last Night' Mhairi McFarlane](../uploads/last-night-mhairi-mcfarlane-cover.jpg "'Last Night' Mhairi McFarlane")
@@ -27,3 +25,5 @@ Xiaolu Guo’s ‘A Lover’s Discourse’ has a polarising appearance compared 
 ![‘A Lover’s Discourse’ Xiaolu Guo](../uploads/a-lover-s-discourse-xiaolu-guo-cover.jpg "‘A Lover’s Discourse’ Xiaolu Guo")
 
 The complex versatility of typefaces, visible on contemporary romance novels illustrates how a range of styles and characteristics can be recognisable, as well as suggestive of a conjugative theme. A collection of similarities and differences, the characteristics of typefaces used on the book covers composed of countless aspects, like the ones deconstructed in this article, transform the reader’s perception of the story and they may also influence the entire reading experience. Like the many elements which vividly decorate the front cover of books or the ‘face’ of the story, the stylistic typeface centers our attention and communicates the tone and notions of the plot performing as an extension of the story.
+
+All images have been sourced from online bookstores.

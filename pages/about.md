@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About
-subtitle: About this blog
+subtitle: ""
 permalink: /about/
 date: 2021-10-11T19:15:34.509Z
 layout: page
@@ -18,7 +18,7 @@ Welcome to the About page.
 
 This blog aims to inform about the range and versatility of typefaces used on a diverse collection of books, analysing the use of typography both on the inside and outside sections of publications.
 
-The author, Max Kielesinska, is a second year student at OBU studying Media, Journalism & Publishing. Interested in typography, Max is keen to share their perspective on various book cover designs and applications of typefaces. 
+The author, Max Kielesinska, is a second year student at OBU studying Media, Journalism & Publishing. Interested in typography, Max is keen to share their perspective on various book cover designs and applications of typefaces.
 
 ##### The blog’s content:
 

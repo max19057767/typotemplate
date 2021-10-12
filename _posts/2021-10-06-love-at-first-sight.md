@@ -2,7 +2,7 @@
 layout: post
 title: Love at first sight
 date: 2021-10-06T02:47:29.928Z
-image: ../uploads/newtitle2.jpg
+image: ../uploads/newtitle1.jpg
 title_color: "#ffffff"
 comments: false
 tags:

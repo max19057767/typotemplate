@@ -2,7 +2,7 @@
 layout: post
 title: Face of the Author
 date: 2021-10-09T14:44:05.866Z
-image: ../uploads/newtitle1.jpg
+image: ../uploads/newtitle2.jpg
 title_color: "#ffffff"
 caption: ""
 comments: false

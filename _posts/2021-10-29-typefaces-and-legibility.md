@@ -10,6 +10,10 @@ tags:
   - Design
   - Fonts
 ---
+## What makes a typeface legible?
+
+
+
 The cover of *Paper Palace* by Miranda Cowley Heller showcases how a range of typefaces can be used without creating a visually clashing image, this cover also manages to achieve an aspect of legibility, despite its intricate design which interrupts the flow of text. 
 
 The future readers of this book might be met with a mixture of ideas connotative to the book’s cover, the design uses a variation of stylised lower-case letters and all caps, together as well as on their own the dual use may imply different concepts of the book. The typography used on book designs can be utilised to communicate various aspects of the book, this particular design may leave the reader with a mixed idea of the book’s tone. The mixed styles are mimicked in the alternate typography, the type consists of elements which are impossible to overlook, for example a high contrast or the broad extension of certain characters. Parts of the typeface are modified through the use of italics, angling the text and as an effect of such design changing the way in which the text can be read and interpreted.

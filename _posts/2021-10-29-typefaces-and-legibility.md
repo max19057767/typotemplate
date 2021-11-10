@@ -10,7 +10,7 @@ tags:
   - Design
   - Fonts
 ---
-### What makes a typeface legible?
+## What makes a typeface legible?
 
 
 

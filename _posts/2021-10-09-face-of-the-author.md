@@ -11,7 +11,7 @@ tags:
   - Books
   - Fonts
 ---
-## **The use of typefaces seen on covers of biography books.**
+## **The effect of typefaces seen on covers of biography books.**
 
 The wide range of typefaces and their modifications in the styles of a dozen fonts, as seen on biography books, is used to convey an identity. The collection of serif or sans serif characters, their placement both on the line and the canvas of the cover, or the emphasis of individual characters through the fluctuating weight all contribute to introducing the reader to the book’s tone and its subject.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Serifs vs Sans-Serifs
 date: 2021-12-05T15:02:10.162Z
+image: ../uploads/serifs-vs-sans-serifs.jpg
 title_color: "#ffffff"
 comments: false
 tags:
